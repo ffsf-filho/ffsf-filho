@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Francisco F. S. Filho 👋
 
 
-- 🔭 Hoje Trabalho com C# e programação Web
-- 🌱 Estudando javascript e React 
+- 🔭 Hoje Trabalho com C# e .NET para programação Web
+- 🌱 Estudando javascript, typescript e React 
 - 📫 Contate-me no email: ffsf.filho@gmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +14,11 @@
 <a href="https://github.com/ffsf-filho">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ffsf-filho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ffsf-filho&layout=compact&langs_count=8&theme=dracula"/>
-<div style="display: inline_block"><br>
+  
+  ##
+  
+<div style="display: inline_block">
+  <br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
