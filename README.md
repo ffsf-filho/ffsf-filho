@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje Trabalho com C# e .NET para programação Web
-- 🌱 Estudando javascript, typescript e React 
+- 🌱 Estudando javascript, typescript, React e Python 3 
 - 📫 Contate-me no email: ffsf.filho@gmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
